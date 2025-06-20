@@ -37,3 +37,7 @@ Google Web Speech API – used internally by the library for speech recognition
 This task helped me understand the fundamentals of audio processing and introduced me to practical machine learning integration with audio input. I also learned how to handle file formats and manage compatibility issues with libraries and system tools like ffmpeg. By the end of the task, I had a working prototype that could take a voice recording, process it, and display its transcribed version in text form.
 
 Completing this task gave me insights into building voice-enabled applications and exposed me to the challenges of audio clarity, noise handling, and speaker variation. This kind of system is highly applicable in modern AI-powered services and plays a critical role in the evolution of voice interfaces
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/21987c14-d7bd-447c-a35a-acecfb2c2261)
